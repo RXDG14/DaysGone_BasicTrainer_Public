@@ -4,3 +4,7 @@
 
 
 Mod Menu for Days gone made with C++, MinHook and SDK dumped with dumper-7.
+
+Mod Link: https://www.nexusmods.com/daysgone/mods/798
+
+Mod Gameplay: https://www.youtube.com/watch?v=nQ64pO_pDMQ
